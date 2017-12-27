@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 //using InvoiceOTC.Model;
-using InvoiceOTC.Repository.Service;
-using InvoiceOTC.Repository.API;
+//using InvoiceOTC.Repository.Service;
+//using InvoiceOTC.Repository.API;
 
 namespace Invoice_OTC.View
 {

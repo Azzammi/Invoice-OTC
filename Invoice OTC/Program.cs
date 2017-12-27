@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Invoice_OTC.View;
 
-using InvoiceOTC.Repository.API;
-using InvoiceOTC.Repository.Service;
+//using InvoiceOTC.Repository.API;
+//using InvoiceOTC.Repository.Service;
 //using InvoiceOTC.Model;
 using log4net;
 
